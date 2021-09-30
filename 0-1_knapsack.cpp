@@ -2,6 +2,8 @@
 using namespace std;
 // int t[200][200];
 
+//memporization 
+
 
 // int knapSack(int *val,int *wt,int w,int n){
 //  if(n==-1||w==0)
@@ -28,6 +30,8 @@ using namespace std;
 //   cout<<knapSack(val,wt,w,n-1);
 //  return 0;
 // }
+
+//top_down Approach
 int main(int argc, char const *argv[])
 {
  int n,w;
